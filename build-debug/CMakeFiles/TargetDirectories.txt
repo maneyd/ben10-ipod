@@ -1,0 +1,7 @@
+/home/tank/projects/play/player/build-debug/CMakeFiles/player_core.dir
+/home/tank/projects/play/player/build-debug/CMakeFiles/player.dir
+/home/tank/projects/play/player/build-debug/CMakeFiles/player_ui.dir
+/home/tank/projects/play/player/build-debug/CMakeFiles/player_tests.dir
+/home/tank/projects/play/player/build-debug/CMakeFiles/test.dir
+/home/tank/projects/play/player/build-debug/CMakeFiles/edit_cache.dir
+/home/tank/projects/play/player/build-debug/CMakeFiles/rebuild_cache.dir

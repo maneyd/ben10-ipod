@@ -1,0 +1,66 @@
+Start testing: Nov 25 14:25 IST
+----------------------------------------------------------
+1/1 Testing: unit_tests
+1/1 Test: unit_tests
+Command: "/home/tank/projects/play/player/build/player_tests"
+Directory: /home/tank/projects/play/player/build
+"unit_tests" start time: Nov 25 14:25 IST
+Output:
+----------------------------------------------------------
+PASS parseDurationMs m:ss
+PASS parseDurationMs h:mm:ss
+PASS parseDurationMs invalid
+PASS prettyDuration
+PASS stepSelection wraps backwards
+PASS stepSelection wraps forwards
+PASS stepSelection handles full cycles
+PASS stepSelection handles empty list
+PASS progressPercent midpoint
+PASS progressPercent lower clamp
+PASS progressPercent upper clamp
+PASS progressPercent zero duration
+PASS volumePercent mute
+PASS volumePercent default
+PASS volumePercent max
+PASS centeredLabel
+PASS inner zone up (top)
+PASS inner zone down (bottom)
+PASS inner zone enter (left)
+PASS inner zone prev (right)
+PASS center button
+PASS outside wheel
+PASS outer zone menu (top)
+PASS outer zone next (right)
+PASS outer zone play/pause (bottom)
+PASS outer zone previous (left)
+PASS debounce not ready before time
+PASS debounce ready at time
+PASS debounce ready after time
+PASS no pending query
+PASS enter plays when results exist
+PASS enter plays when results exist (with query)
+PASS enter triggers search when query non-empty
+PASS enter does nothing when empty
+PASS extractFilteredSongs count
+PASS extractFilteredSongs video id
+PASS extractFilteredSongs title
+PASS extractFilteredSongs artist
+PASS extractFilteredSongs duration
+PASS extractFilteredSongs thumbnail
+PASS catalog persistence
+PASS liked persistence
+PASS history persistence
+PASS playlist persistence
+PASS search history persistence
+PASS local scanner count
+PASS local scanner title fallback
+PASS local scanner source
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"unit_tests" end time: Nov 25 14:25 IST
+"unit_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 25 14:25 IST
